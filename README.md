@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Jermaine Cogo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**UkiyoC/UkiyoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About ME
 
-Here are some ideas to get you started:
+```yaml
+name: Jermaine S. Cogo
+current_job: 4th Year Computer Science Student
+education:
+  [
+    "Self Taught Developer and UI/UX Designer",
+    "Undergradute for Bachelor Computer Science",
+  ]
+fields_of_interests:
+  [
+    "Data Science"
+    "Game Development",
+    "UI/UX",
+    "Web Development",
+  ]
+hobbies: ["Gaming", "Art", "Poker"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhraHQzZDUxZjJpbjg4NnJkMXN0NW5xMXZuOXc4c2trZHphbm5vZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P7JmDW7IkB7TW/giphy.gif"></img>
